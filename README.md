@@ -1,6 +1,8 @@
 # Clustering
 Clustering on customers
 
+Program: Python
+
 Source: Superstore sales data
 Encoding: latin1
 
