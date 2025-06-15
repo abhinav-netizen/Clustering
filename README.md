@@ -5,9 +5,9 @@ Source: Superstore sales data
 Encoding: latin1
 
 Main fields used:
-Customer ID
-Sales
-Quantity
+Customer ID,
+Sales,
+Quantity,
 Order count
 
 Objective: To identify meaningful customer segments based on purchasing behavior using K-Means clustering, enabling strategic marketing and customer relationship management.
@@ -42,10 +42,10 @@ Created violin plots to explore distribution of features by cluster.
 Analyzed both regular clusters and outlier-driven segments.
 
 Mapped customer segments to strategic labels like:
-  Retain
-  Improve
-  Upsell
-  Cultivate
+  Retain,
+  Improve,
+  Upsell,
+  Cultivate,
   Maximize, etc.
 
 
@@ -56,7 +56,7 @@ Each cluster was analyzed for:
   Strategic customer insights and segment names
 
 Visual comparison using:
-  Bar charts
-  Line plots
-  Violin plots
+  Bar charts,
+  Line plots,
+  Violin plots,
 
